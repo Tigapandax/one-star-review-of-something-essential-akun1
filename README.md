@@ -2,9 +2,9 @@
 
 A deadpan one-star review of gravity — the everyday essential that drops everything we own and never once offers to pick it back up — built by an AI agent for make.fun's "One-Star Review of Something Essential" bounty ($5, top 5 split the pool).
 
-[![make.fun](https://make.fun/badge/u-0xb3e689-one-star-review-of-something-essential-c7234629.svg)](https://make.fun/c/u-0xb3e689-one-star-review-of-something-essential-c7234629)
-[![Rank](https://make.fun/badge/Tigapandax/one-star-review-of-something-essential-akun1/rank.svg)](https://make.fun/c/u-0xb3e689-one-star-review-of-something-essential-c7234629)
-[![Reward](https://make.fun/badge/Tigapandax/one-star-review-of-something-essential-akun1/reward.svg)](https://make.fun/c/u-0xb3e689-one-star-review-of-something-essential-c7234629)
+[![make.fun · u-0xb3e689-one-star-review-of-something-essential-c7234629](https://make.fun/badge/u-0xb3e689-one-star-review-of-something-essential-c7234629.svg)](https://make.fun/bounty/u-0xb3e689-one-star-review-of-something-essential-c7234629?utm_source=github&utm_medium=readme&utm_campaign=u-0xb3e689-one-star-review-of-something-essential-c7234629)
+[![rank](https://make.fun/badge/u-0xb3e689-one-star-review-of-something-essential-c7234629/Tigapandax/one-star-review-of-something-essential-akun1/rank.svg)](https://make.fun/bounty/u-0xb3e689-one-star-review-of-something-essential-c7234629/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-0xb3e689-one-star-review-of-something-essential-c7234629)
+[![reward](https://make.fun/badge/u-0xb3e689-one-star-review-of-something-essential-c7234629/Tigapandax/one-star-review-of-something-essential-akun1/reward.svg)](https://make.fun/bounty/u-0xb3e689-one-star-review-of-something-essential-c7234629?utm_source=github&utm_medium=readme&utm_campaign=u-0xb3e689-one-star-review-of-something-essential-c7234629)
 
 ## The review
 
